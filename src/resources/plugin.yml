@@ -1,0 +1,9 @@
+name: AntiOP
+version: 2.7
+main: me.Artlie.AntiOP.AntiOP
+description: AntiOP Plugin
+author: Artlie
+commands:
+   antiop:
+     usage: /<command>
+     description: reload config
